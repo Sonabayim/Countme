@@ -25,7 +25,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY','!gdsih%-em3ur$*g0bpx#(05h_@w@syc1ji$85
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['count--me.herokuapp.com']
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = os.environ.get("EMAIL_HOST_USER")
