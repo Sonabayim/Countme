@@ -6,7 +6,7 @@ __pycache__/
 countme/settings/local.py
 countme/settings/local2.py
 countme/settings/base.py
-
+db.sqlite3
 # C extensions
 *.so
 
